@@ -1,0 +1,5 @@
+1.futbolista prefesional
+2.doctor
+3.trabajo
+4. gamer
+5.profesor de natacion
