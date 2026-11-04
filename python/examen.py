@@ -1,2 +1,11 @@
 a=("ingresa tu nombre")
-b=("ingresa tu 
+b=("ingresa tu edad")
+c=("ingresa tu pais")
+d=("ingresa tu juego favorito")
+g=("ingresa tu amigo")
+print("mi nombre es","a")
+print("mi edad es","b")
+print("mi pais es","c")
+print("mi juego favorito es","d")
+print("mi amigo es","g")
+
